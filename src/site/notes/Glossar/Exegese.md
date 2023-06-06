@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/exegese/","noteIcon":"3","created":"2023-05-30T21:47:06.478+02:00","updated":"2023-06-04T21:51:41.117+02:00"}
+{"dg-publish":true,"permalink":"/glossar/exegese/"}
 ---
  
 
