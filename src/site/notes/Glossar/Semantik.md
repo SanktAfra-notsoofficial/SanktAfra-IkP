@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/semantik/","noteIcon":"3","created":"2023-05-31T20:53:25.878+02:00","updated":"2023-06-04T21:53:07.041+02:00"}
+{"dg-publish":true,"permalink":"/glossar/semantik/"}
 ---
  
 
