@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/manchester-school/","noteIcon":"3","created":"2023-05-09T12:47:15.069+02:00","updated":"2023-06-04T21:52:17.297+02:00"}
+{"dg-publish":true,"permalink":"/glossar/manchester-school/"}
 ---
  
 
