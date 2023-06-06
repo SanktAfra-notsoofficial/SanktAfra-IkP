@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/02-gilles-deleuze-kultur-und-gegenkultur/","noteIcon":"3","created":"2023-04-19T08:04:04.217+02:00","updated":"2023-06-04T21:39:28.452+02:00"}
+{"dg-publish":true,"permalink":"/kapitel/02-gilles-deleuze-kultur-und-gegenkultur/"}
 ---
  
 
