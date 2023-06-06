@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/dromologie/","noteIcon":"3","created":"2023-04-26T12:56:40.567+02:00","updated":"2023-06-04T21:51:31.001+02:00"}
+{"dg-publish":true,"permalink":"/glossar/dromologie/"}
 ---
  
 
