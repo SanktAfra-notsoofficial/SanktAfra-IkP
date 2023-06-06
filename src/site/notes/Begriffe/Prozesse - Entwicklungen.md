@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/prozesse-entwicklungen/"}
+{"dg-publish":true,"permalink":"/begriffe/prozesse-entwicklungen/","noteIcon":"3","created":"2023-04-26T12:27:56.235+02:00","updated":"2023-06-04T22:02:08.698+02:00"}
 ---
  
 
