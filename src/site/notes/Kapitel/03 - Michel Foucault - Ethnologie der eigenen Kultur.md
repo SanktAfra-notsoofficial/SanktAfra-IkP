@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/03-michel-foucault-ethnologie-der-eigenen-kultur/","noteIcon":"3","created":"2023-04-18T17:58:48.250+02:00","updated":"2023-06-06T13:44:09.837+02:00"}
+{"dg-publish":true,"permalink":"/kapitel/03-michel-foucault-ethnologie-der-eigenen-kultur/"}
 ---
  
 
