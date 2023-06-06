@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/revolution-der-transplantationen/"}
+{"dg-publish":true,"permalink":"/glossar/revolution-der-transplantationen/","noteIcon":"3","created":"2023-05-17T14:02:48.987+02:00","updated":"2023-06-04T21:52:57.677+02:00"}
 ---
  
 
