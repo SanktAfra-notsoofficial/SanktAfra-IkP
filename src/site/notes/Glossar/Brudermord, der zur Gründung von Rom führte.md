@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/brudermord-der-zur-gruendung-von-rom-fuehrte/","noteIcon":"3","created":"2023-06-01T00:21:19.701+02:00","updated":"2023-06-04T21:51:22.065+02:00"}
+{"dg-publish":true,"permalink":"/glossar/brudermord-der-zur-gruendung-von-rom-fuehrte/"}
 ---
  
 
