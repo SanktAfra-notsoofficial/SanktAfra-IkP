@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/hermeneutik/"}
+{"dg-publish":true,"permalink":"/glossar/hermeneutik/","noteIcon":"3","created":"2023-05-31T20:32:58.822+02:00","updated":"2023-06-04T21:52:05.077+02:00"}
 ---
  
 
