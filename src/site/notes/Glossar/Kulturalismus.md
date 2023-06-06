@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/kulturalismus/","noteIcon":"3","created":"2023-05-03T12:28:20.765+02:00","updated":"2023-06-04T21:52:14.109+02:00"}
+{"dg-publish":true,"permalink":"/glossar/kulturalismus/"}
 ---
  
 
