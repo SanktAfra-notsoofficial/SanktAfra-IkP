@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/technologie/"}
+{"dg-publish":true,"permalink":"/begriffe/technologie/","noteIcon":"3","created":"2023-05-03T12:30:09.205+02:00","updated":"2023-06-04T22:02:27.642+02:00"}
 ---
  
 
