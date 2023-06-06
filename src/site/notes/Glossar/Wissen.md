@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/wissen/"}
+{"dg-publish":true,"permalink":"/glossar/wissen/","noteIcon":"3","created":"2023-05-31T20:32:59.610+02:00","updated":"2023-06-04T21:54:06.541+02:00"}
 ---
  
 
