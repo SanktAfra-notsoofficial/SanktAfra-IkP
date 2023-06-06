@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/multikulturalismus/"}
+{"dg-publish":true,"permalink":"/glossar/multikulturalismus/","noteIcon":"3","created":"2023-05-29T19:58:23.554+02:00","updated":"2023-06-04T21:52:38.609+02:00"}
 ---
  
 
