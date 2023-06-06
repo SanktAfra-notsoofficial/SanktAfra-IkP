@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/sigmund-freud/","noteIcon":"3","created":"2023-05-16T20:02:59.767+02:00","updated":"2023-06-04T21:53:09.729+02:00"}
+{"dg-publish":true,"permalink":"/glossar/sigmund-freud/"}
 ---
  
 
