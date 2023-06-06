@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/kosmopolitismus/","noteIcon":"3","created":"2023-05-30T21:46:23.068+02:00","updated":"2023-06-04T21:52:11.289+02:00"}
+{"dg-publish":true,"permalink":"/glossar/kosmopolitismus/"}
 ---
  
 
