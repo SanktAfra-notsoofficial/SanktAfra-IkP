@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/bodenlosigkeit/"}
+{"dg-publish":true,"permalink":"/glossar/bodenlosigkeit/","noteIcon":"3","created":"2023-06-01T01:53:00.930+02:00","updated":"2023-06-04T21:51:18.241+02:00"}
 ---
  
 
