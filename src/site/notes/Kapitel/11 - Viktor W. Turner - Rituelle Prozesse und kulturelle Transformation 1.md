@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/11-viktor-w-turner-rituelle-prozesse-und-kulturelle-transformation-1/"}
+{"dg-publish":true,"permalink":"/kapitel/11-viktor-w-turner-rituelle-prozesse-und-kulturelle-transformation-1/","noteIcon":"3","created":"2023-05-24T12:10:53.740+02:00","updated":"2023-06-04T21:41:03.730+02:00"}
 ---
  
 
