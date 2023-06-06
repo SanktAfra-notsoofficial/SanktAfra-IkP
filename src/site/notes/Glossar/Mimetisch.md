@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/mimetisch/"}
+{"dg-publish":true,"permalink":"/glossar/mimetisch/","noteIcon":"3","created":"2023-05-31T06:28:01.084+02:00","updated":"2023-06-04T21:52:35.637+02:00"}
 ---
  
 
