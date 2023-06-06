@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/poststrukturalismus/","noteIcon":"3","created":"2023-06-01T01:04:47.408+02:00","updated":"2023-06-04T21:52:46.765+02:00"}
+{"dg-publish":true,"permalink":"/glossar/poststrukturalismus/"}
 ---
  
 
