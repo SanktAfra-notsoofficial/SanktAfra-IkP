@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/virilokale-residenz/","noteIcon":"3","created":"2023-05-24T12:40:05.841+02:00","updated":"2023-06-04T21:53:50.165+02:00"}
+{"dg-publish":true,"permalink":"/glossar/virilokale-residenz/"}
 ---
  
 
