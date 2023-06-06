@@ -41,6 +41,6 @@ Aus Michel Foucaults Werken lässt sich keine klare Definition für "Kultur" abl
 
 
 ---
-[1]: Foucault, Michel; Zitiert nach: Lavagno, Christian: Michel Foucault: Ethnologie der eigenen Kultur, in: Stephan Moebius, Dirk   Quadflieg (Hg.), Kultur. Theorien der Gegenwart, Wiesbaden [2. Auflage] 2011, S. 47
+[1]: Foucault, Michel; Zitiert nach: Lavagno, Christian: Michel Foucault: Ethnologie der eigenen Kultur, in: Stephan Moebius, Dirk   Quadflieg (Hg.), Kultur. Theorien der Gegenwart, Wiesbaden (2. Auflage)  2011, S. 47
 [2]: Lavagno, S. 51
 [3]: Lavagno, S. 51
