@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/objektbeziehung/"}
+{"dg-publish":true,"permalink":"/glossar/objektbeziehung/","noteIcon":"3","created":"2023-05-16T20:02:59.367+02:00","updated":"2023-06-04T21:52:43.917+02:00"}
 ---
  
 
