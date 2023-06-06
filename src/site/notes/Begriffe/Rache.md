@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/rache/"}
+{"dg-publish":true,"permalink":"/begriffe/rache/","noteIcon":"3","created":"2023-05-31T10:23:27.523+02:00","updated":"2023-06-04T22:02:11.706+02:00"}
 ---
  
 
