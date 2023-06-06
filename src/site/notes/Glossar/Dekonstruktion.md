@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/dekonstruktion/"}
+{"dg-publish":true,"permalink":"/glossar/dekonstruktion/","noteIcon":"3","created":"2023-06-01T00:45:14.503+02:00","updated":"2023-06-04T21:51:28.153+02:00"}
 ---
  
 
