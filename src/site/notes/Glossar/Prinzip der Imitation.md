@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/prinzip-der-imitation/"}
+{"dg-publish":true,"permalink":"/glossar/prinzip-der-imitation/","noteIcon":"3","created":"2023-05-31T06:56:43.055+02:00","updated":"2023-06-04T21:52:49.837+02:00"}
 ---
  
 
