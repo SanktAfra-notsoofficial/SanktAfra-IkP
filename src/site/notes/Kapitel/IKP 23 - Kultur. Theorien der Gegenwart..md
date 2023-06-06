@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/ikp-23-kultur-theorien-der-gegenwart/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/kapitel/ikp-23-kultur-theorien-der-gegenwart/","tags":["gardenEntry"],"noteIcon":"3","created":"2023-05-24T13:07:11.358+02:00","updated":"2023-06-06T12:17:24.052+02:00"}
 ---
  
 
