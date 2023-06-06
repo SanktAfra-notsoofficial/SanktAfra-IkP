@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/william-r-kenan-professur/","noteIcon":"3","created":"2023-05-11T17:17:21.389+02:00","updated":"2023-06-04T21:54:00.981+02:00"}
+{"dg-publish":true,"permalink":"/glossar/william-r-kenan-professur/"}
 ---
  
 
