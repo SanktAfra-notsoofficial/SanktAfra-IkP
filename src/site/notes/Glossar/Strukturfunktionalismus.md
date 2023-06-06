@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/strukturfunktionalismus/"}
+{"dg-publish":true,"permalink":"/glossar/strukturfunktionalismus/","noteIcon":"3","created":"2023-05-16T20:03:00.391+02:00","updated":"2023-06-04T21:53:12.257+02:00"}
 ---
  
 
