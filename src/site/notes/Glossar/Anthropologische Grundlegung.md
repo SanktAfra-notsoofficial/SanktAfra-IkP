@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/anthropologische-grundlegung/","noteIcon":"3","created":"2023-05-31T22:43:20.213+02:00","updated":"2023-06-04T21:51:10.921+02:00"}
+{"dg-publish":true,"permalink":"/glossar/anthropologische-grundlegung/"}
 ---
  
 
