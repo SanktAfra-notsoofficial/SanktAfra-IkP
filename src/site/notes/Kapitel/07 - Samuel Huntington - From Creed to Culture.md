@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/07-samuel-huntington-from-creed-to-culture/"}
+{"dg-publish":true,"permalink":"/kapitel/07-samuel-huntington-from-creed-to-culture/","noteIcon":"3","created":"2023-05-24T11:57:06.956+02:00","updated":"2023-06-04T21:40:56.042+02:00"}
 ---
  
 
