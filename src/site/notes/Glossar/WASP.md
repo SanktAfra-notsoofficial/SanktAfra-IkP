@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/wasp/"}
+{"dg-publish":true,"permalink":"/glossar/wasp/","noteIcon":"3","created":"2023-05-29T19:58:24.062+02:00","updated":"2023-06-04T21:53:53.785+02:00"}
 ---
  
 
