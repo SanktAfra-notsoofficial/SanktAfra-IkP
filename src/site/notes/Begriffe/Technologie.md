@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"permalink":"/begriffe/technologie/"}
+---
+ 
+
+## Definition
+Technologie (griech. _τέχνη_ (techne) = **Kunst, Geschick, Handwerk**; _λόγος_ (logos) = **Lehre, Sinn**) wird im allgemeinen als Wissenschaft oder Lehre bezeichnet, die die aktuellste Vorgehensweise bei Produktions- und Arbeitsprozessen bestimmt. Sie wird ständig von den neuesten Erkenntnissen und Errungenschaften anderer Bereiche wie der Mathematik, Natur- und Gesellschaftswissenschaften maßgeblich beeinflusst.
+
+## Kultureller Einfluss
+Die Anwendung von Technologie in einer Gesellschaft ist abhängig von den Ansichten der Bevölkerung und bestehenden kulturellen Strukturen. Während einige Kulturen Technologie als Mittel zur Verbesserung des menschlichen Lebens verwenden, können andere sie als Bedrohung für Werte, Traditionen oder soziale Strukturen empfinden. Tolerantere Gesellschaften fördern den Einsatz neuer Technologien stärker als welche, die sich ihre traditionellen Praktiken und auch soziale Interaktionen bewahren möchten. Häufig muss Technologie an den einzigartigen Kontext und die Bedürfnisse einer Kultur angepasst werden. Was in der einen Kultur als akzeptabel angesehen wird, kann in einem anderen Kontext jedoch als inakzeptabel betrachtet werden. Dabei spielen Faktoren wie lokale Ressourcen, Sprache, Bildungsniveau, Infrastruktur und finanzielle Mittel eine maßgebende Rolle. Plötzliche Veränderungen dieser Faktoren haben oftmals Folgen für die Nutzung von Technologien und starke Unterschiede können kulturelle Kluften verdeutlichen. So sorgte beispielsweise der rasant gestiegene Reichtum in China in den letzten Jahren für den plötzlichen Einstieg in den Technologiemarkt für den durchschnittlichen Verdiener. Auch kulturelle Normen, wie Privatsphäre und Sicherheitsgefühl sind wichtige Kriterien, die neue Technologien beeinflussen.
+
+## Technologie nach Virilio
+Paul Virilio betrachtet Technologie als eine Form von [[Begriffe/Macht\|Macht]]. Sie kann verwendet werden, um einen Vorteil gegenüber anderer Konfliktparteien zu haben oder Herrschaft sowohl gewaltsam als auch friedlich über andere auszuüben. Damit kann der technologische Fortschritt bedrohend, oder auch befreiend wirken, abhängig davon, wie die Technologie eingesetzt wird.
+Technologie hat einen direkten Einfluss darauf, wie die Menschen ihre Umgebung wahrnehmen. Sie kann beispielsweise die Kritikfähigkeit einschränken, wenn eine Person mit zu vielen Informationen gleichzeitig konfrontiert wird und plötzlich gezwungen ist, zwischen ihnen zu wählen. Dabei werden nicht nur die Erfahrungen von Privatpersonen beeinflusst, sondern genauso die Politik oder die Wirtschaft, da sie in gewisser Weise zeitgemäß bleiben müssen oder teilweise selbst neue Technologien hervorbringen.
+Virilio betont oft die eigene Energie, die Technologie mit sich bringt, da eine neue Erfindung oft Möglichkeiten für viele weitere Entdeckungen eröffnet. Der technologische Fortschritt wird somit mit einer stetigen Beschleunigung immer schneller und bekommt immer größere Ausmaße, die neue zeitliche und räumliche Dynamiken nach sich ziehen.
+Virilio pflegt eine kritische aber keineswegs konservative Sicht auf neue Entwicklungen, da er die Risiken vor allem durch Entfremdung der Realität wahrnimmt. Die Menschen der modernen Gesellschaft sehen viel mehr Dinge als Selbstverständlichkeit an und lassen sich vor allem durch den konstanten Strom von Medien in eine Art Sucht ziehen, die nach ständig neuen Reizen in Form von spannenden Nachrichten verlangt. Die moderne Mediengesellschaft versucht durchgehend Informationen spannender klingen zu lassen, als sie sind, damit sie gegenüber anderen Anbietern der selben Informationen herausstechen. Dabei entsteht ein hohes Risiko für Falschinformationen, wovor Virilio stets warnt und eine ständige Überprüfung des sinngemäßen Einsatzes von Technologie vorschlägt.
+
+- - - 
+[1] https://www.dwds.de/wb/Technologie
+[2] https://de.m.wikipedia.org/wiki/Technologie
+[3] https://www.duden.de/rechtschreibung/Technologie
