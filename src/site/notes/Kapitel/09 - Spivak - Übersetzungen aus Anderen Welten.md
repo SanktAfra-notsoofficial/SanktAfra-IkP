@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/09-spivak-uebersetzungen-aus-anderen-welten/"}
+{"dg-publish":true,"permalink":"/kapitel/09-spivak-uebersetzungen-aus-anderen-welten/","noteIcon":"3","created":"2023-04-18T17:58:52.246+02:00","updated":"2023-06-04T21:40:59.686+02:00"}
 ---
  
 
