@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/zentralismus/","noteIcon":"3","created":"2023-05-30T21:46:21.280+02:00","updated":"2023-06-04T21:54:13.333+02:00"}
+{"dg-publish":true,"permalink":"/glossar/zentralismus/"}
 ---
  
 
