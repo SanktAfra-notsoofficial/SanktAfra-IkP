@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/michel-foucault/"}
+{"dg-publish":true,"permalink":"/glossar/michel-foucault/","noteIcon":"3","created":"2023-05-24T12:12:45.061+02:00","updated":"2023-06-04T21:52:32.193+02:00"}
 ---
  
 
