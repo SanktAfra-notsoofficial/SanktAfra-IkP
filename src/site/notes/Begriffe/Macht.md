@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/macht/","noteIcon":"3","created":"2023-04-26T11:45:13.064+02:00","updated":"2023-06-04T22:02:02.590+02:00"}
+{"dg-publish":true,"permalink":"/begriffe/macht/"}
 ---
  
 
