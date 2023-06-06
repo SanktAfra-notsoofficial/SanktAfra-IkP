@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/04-pierre-bourdieu-zur-kritik-der-symbolischen-gewalt/","noteIcon":"3","created":"2023-04-18T17:58:49.578+02:00","updated":"2023-06-04T21:40:48.266+02:00"}
+{"dg-publish":true,"permalink":"/kapitel/04-pierre-bourdieu-zur-kritik-der-symbolischen-gewalt/"}
 ---
  
 
