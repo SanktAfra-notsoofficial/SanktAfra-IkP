@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/jacques-lacan/","noteIcon":"3","created":"2023-05-18T19:22:26.079+02:00","updated":"2023-06-04T21:52:08.601+02:00"}
+{"dg-publish":true,"permalink":"/glossar/jacques-lacan/"}
 ---
  
 
