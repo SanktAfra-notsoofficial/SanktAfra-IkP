@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/faezes/","noteIcon":"3","created":"2023-05-31T22:40:53.774+02:00","updated":"2023-06-04T21:51:44.945+02:00"}
+{"dg-publish":true,"permalink":"/glossar/faezes/"}
 ---
  
 
