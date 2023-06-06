@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/struktur-politik-wirtschaft/"}
+{"dg-publish":true,"permalink":"/begriffe/struktur-politik-wirtschaft/","noteIcon":"3","created":"2023-04-26T12:47:09.952+02:00","updated":"2023-06-04T22:02:21.502+02:00"}
 ---
  
  
