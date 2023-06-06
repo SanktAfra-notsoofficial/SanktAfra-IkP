@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/ethnologie/"}
+{"dg-publish":true,"permalink":"/glossar/ethnologie/","noteIcon":"3","created":"2023-05-09T12:47:13.601+02:00","updated":"2023-06-04T21:51:37.725+02:00"}
 ---
  
 
