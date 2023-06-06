@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/48-vilem-flusser-kommunikation-und-menschliche-existenz/"}
+{"dg-publish":true,"permalink":"/kapitel/48-vilem-flusser-kommunikation-und-menschliche-existenz/","noteIcon":"3","created":"2023-05-30T21:46:23.444+02:00","updated":"2023-06-04T21:41:22.762+02:00"}
 ---
  
 
