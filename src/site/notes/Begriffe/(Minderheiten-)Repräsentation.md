@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/minderheiten-repraesentation/","noteIcon":true}
+{"dg-publish":true,"permalink":"/begriffe/minderheiten-repraesentation/"}
 ---
  
 
