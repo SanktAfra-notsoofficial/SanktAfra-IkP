@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/minderheiten-repraesentation/","noteIcon":"3","created":"2023-04-26T12:33:15.985+02:00","updated":"2023-06-06T14:13:42.006+02:00"}
+{"dg-publish":true,"permalink":"/begriffe/minderheiten-repraesentation/","noteIcon":true}
 ---
  
 
