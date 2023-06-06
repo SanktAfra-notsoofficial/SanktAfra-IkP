@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/44-paul-virilio-geschwindigkeit-ist-macht/","noteIcon":"3","created":"2023-04-18T17:58:45.995+02:00","updated":"2023-06-04T21:41:19.642+02:00"}
+{"dg-publish":true,"permalink":"/kapitel/44-paul-virilio-geschwindigkeit-ist-macht/"}
 ---
  
 
