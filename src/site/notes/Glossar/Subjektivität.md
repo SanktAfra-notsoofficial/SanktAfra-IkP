@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/subjektivitaet/"}
+{"dg-publish":true,"permalink":"/glossar/subjektivitaet/","noteIcon":"3","created":"2023-05-31T20:33:01.114+02:00","updated":"2023-06-04T21:53:16.853+02:00"}
 ---
  
 
