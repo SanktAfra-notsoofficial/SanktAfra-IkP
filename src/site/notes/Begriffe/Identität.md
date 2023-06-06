@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/identitaet/"}
+{"dg-publish":true,"permalink":"/begriffe/identitaet/","noteIcon":"3","created":"2023-04-26T12:31:44.988+02:00","updated":"2023-06-04T22:01:50.822+02:00"}
 ---
  
 
