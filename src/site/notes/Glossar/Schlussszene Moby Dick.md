@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/schlussszene-moby-dick/","noteIcon":"3","created":"2023-05-31T22:40:54.154+02:00","updated":"2023-06-04T21:53:04.033+02:00"}
+{"dg-publish":true,"permalink":"/glossar/schlussszene-moby-dick/"}
 ---
  
 
