@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/bachelor-of-arts/","noteIcon":"3","created":"2023-05-09T12:47:14.757+02:00","updated":"2023-06-04T21:51:14.121+02:00"}
+{"dg-publish":true,"permalink":"/glossar/bachelor-of-arts/"}
 ---
  
 
