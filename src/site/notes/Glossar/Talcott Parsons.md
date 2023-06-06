@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/talcott-parsons/","noteIcon":"3","created":"2023-05-16T20:03:00.699+02:00","updated":"2023-06-04T21:53:19.729+02:00"}
+{"dg-publish":true,"permalink":"/glossar/talcott-parsons/"}
 ---
  
 
