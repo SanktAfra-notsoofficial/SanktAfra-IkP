@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/matrilineare-deszendenz/","noteIcon":"3","created":"2023-05-24T12:14:10.771+02:00","updated":"2023-06-04T21:52:23.749+02:00"}
+{"dg-publish":true,"permalink":"/glossar/matrilineare-deszendenz/"}
 ---
  
 
