@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossar/female-genital-mutilation-fgm/","noteIcon":"3","created":"2023-06-01T00:19:29.992+02:00","updated":"2023-06-04T21:51:50.217+02:00"}
+{"dg-publish":true,"permalink":"/glossar/female-genital-mutilation-fgm/"}
 ---
  
 
