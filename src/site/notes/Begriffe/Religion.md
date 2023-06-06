@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/religion/","noteIcon":"3","created":"2023-04-26T12:27:55.519+02:00","updated":"2023-06-04T22:02:14.894+02:00"}
+{"dg-publish":true,"permalink":"/begriffe/religion/"}
 ---
  
 
