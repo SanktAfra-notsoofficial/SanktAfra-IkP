@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kapitel/30-george-ritzer-the-mc-donaldization-of-society/","noteIcon":"3","created":"2023-06-04T11:29:23.407+02:00","updated":"2023-06-04T21:41:16.422+02:00"}
+{"dg-publish":true,"permalink":"/kapitel/30-george-ritzer-the-mc-donaldization-of-society/"}
 ---
  
 
