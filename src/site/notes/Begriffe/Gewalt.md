@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/begriffe/gewalt/","noteIcon":"3","created":"2023-04-19T11:50:25.222+02:00","updated":"2023-06-04T22:01:47.930+02:00"}
+{"dg-publish":true,"permalink":"/begriffe/gewalt/"}
 ---
  
 
