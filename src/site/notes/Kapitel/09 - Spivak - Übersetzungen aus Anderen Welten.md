@@ -37,7 +37,7 @@ In ihrem Essay *"Can the Subaltern Speak"*  ([The Subaltern](https://www.youtube
 
 Wie das Repräsentationsproblem praktisch zu lösen sei, zeigt sie jedoch nicht auf.
 
-### (III.II) Kritik an Foucault & Deleuze 
+### (III.II) Kritik an [[Glossar/Michel Foucault\|Foucault]] & [[Kapitel/02 - Gilles Deleuze - Kultur und Gegenkultur\|Deleuze]]
 Das Prinzip der Selbstreflexion zieht sich fast schon konstant durch das Gesamtwerk Spivaks. 
 So, plädiert im Umgang mit Fragen der [[Begriffe/(Minderheiten-)Repräsentation\|Fremdenrepräsentation]] an die vernünftige Selbstreflexion und dabei immer wieder in sprechende und "besprochene" Personen zu unterscheiden. Es sei von Nöten, sich immer wieder die eigene, ggf. historisch priviligierte, Position in der umgebenden Sozialstruktur in Erinnerung zu rufen.
 Als wichtiges Beispiel greift Spivak dabei die Differenzierung zwischen 'Täter-' und 'Opferrolle' durch [[Begriffe/Gewalt\| westlichen Rassismus]] postkolonialer Intelektueller auf. 
