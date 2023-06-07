@@ -15,6 +15,8 @@ Unter der Rubrik Kapitel finden Sie die von uns zusammengefassten, ausgearbeitet
 Die von uns im Ordner 'Begriffe' definierten Begriffe dienen eben dieser Verknüpfung und dem besseren Verständnis welche - uns auch alltäglich beeinflussenden - Umstände verschiedene Bedeutungen haben können und im Zusammenhang mit dem Kulturbegriff stehen.
 Im Glossar finden sich ebenso zusätzliche Begriffe, welche dieser Verknüpfung und dem besseren Verständnis der beschriebenen Theorien dienen.
 
+[Hier](https://sankt-afra-ik-p.vercel.app/) findet sich das finale Endprodukt.
+
 ## Wer?
 (hier vielleicht lieber die Namen auflisten?)
 
