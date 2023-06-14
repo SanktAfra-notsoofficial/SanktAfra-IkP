@@ -29,7 +29,7 @@ Der rituelle Prozess Turners kann ebenfalls als ein, die Forschung vorantreibend
 
 
 
-## Entwicklungen nach [[Kapitel/44 - Paul Virilio - Geschwindigkeit ist Macht\|Virilio]] (Johannes)
+## Entwicklungen nach [[Kapitel/44.1 - Paul Virilio - Geschwindigkeit ist Macht\|Virilio]] (Johannes)
 Paul Virilio fokussiert sich bei Entwicklungen auf den technischen Fortschritt. Zum einen erkennt er die positiven Auswirkungen von Technologie und Innovation auf verschiedene Bereiche des Lebens. Andererseits warnt er vor der rasant voranschreitenden Forschung und legt vor allem den Fokus auf die Rückschläge, die Forschung automatisch mit sich zieht. In Virilios Augen gehört zu jedem Erfolg auch eine Niederlage und wenn eines Tages der absolute Erfolg entsteht, wird es auch eine absolute Niederlage geben. Durch das große Potenzial, die neue Erfindungen auch als Waffen haben, appelliert er für eine kritische Sicht gegenüber neuen Entdeckungen in der Forschung.
 
 
