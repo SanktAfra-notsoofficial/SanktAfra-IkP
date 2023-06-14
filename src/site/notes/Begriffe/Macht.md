@@ -11,7 +11,7 @@ Der Begriff Macht ist ein vielseitiger und facettenreicher Begriff der Kulturthe
 ## Macht nach [[Kapitel/03 - Michel Foucault - Ethnologie der eigenen Kultur\|Foucault]] (Yannick)
 Bei Michel Foucault beschreibt der Begriff Macht die Gesamtheit aller Machtverhältnisse innerhalb einer Gesellschaft. Diese sind die treibende Kraft hinter gesellschaftlichem Diskurs und entspringen nicht der Spitze der Hierarchie, sondern von jeglichen Ebenen des Systems. Generell gilt, dass umso subtiler die Einflüsse der Macht sind, desto effektiver wird diese eingesetzt. Sie wird als Methode zu zahlreichen Zwecken genutzt, die meistens andere Menschen oder Strukturen ändern wollen (z. B. in Form von Disziplinierung um aktiv einen bestimmten Menschentypus hervorzubringen). Erfolgreiche Machtstrategien sorgen immer für eine größere Menge an neu erlangtem Wissen und Subjektivität, die den Menschen in der Selbstfindung und -prüfung assistiert, weshalb Foucault einen überaus produktiven Vorteil in ihr erkennt. Jede Macht trifft auch wiederum auf eine Gegenmacht, auch Widerstand, der zwar die Machtverhältnisse nicht abschaffen, aber verändern kann.
 
-## Macht nach [[Kapitel/44 - Paul Virilio - Geschwindigkeit ist Macht\|Virilio]] (Florian)
+## Macht nach [[Kapitel/44.1 - Paul Virilio - Geschwindigkeit ist Macht\|Virilio]] (Florian)
 
 
 ## Macht nach Virilio (Johannes)
